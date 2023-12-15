@@ -199,3 +199,5 @@ These Bylaws were adopted at a meeting of the Board of Directors of Choteau Lion
 * Mary Morzinski, President&#x20;
 * Thomas Rogers, Secretary
 * Steve Dogiakos, Treasurer
+
+And amended at the 2023 Annual Meeting .
