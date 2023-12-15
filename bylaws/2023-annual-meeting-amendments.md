@@ -36,7 +36,7 @@ Section to be Added: Membership
 
 **Proposed Amendment:** _Strike_ “The Corporation shall have no members.” and _insert_ Section 3.01 Composition of Membership. Membership of the Foundation shall consist solely of Lions clubs and their members who are in good standing. This is to ensure alignment with the principles and objectives of the Lions Clubs International.
 
-6\. Better Electronic Meeting
+### 6. Better Electronic Meeting
 
 Section to be Amended: Participation by Telephone
 
