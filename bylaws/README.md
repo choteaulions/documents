@@ -30,7 +30,7 @@ The “Board” shall mean the Board of Directors of the Corporation.
 
 ### Section 2.01 Charitable, Educational, and Scientific Purposes and Powers.&#x20;
 
-The purposes of the Corporation, as set forth in the Articles of Incorporation, are exclusively charitable, educational, or religious, within the meaning of section 501(c)(3) of the Internal Revenue Code of 1986, as amended, or the corresponding provision of any future Federal tax law (“Section 501(c)(3)”). In furtherance of such purposes, the Corporation shall have the same powers as an individual to do all things necessary or convenient to carry out the purposes, as set forth in the Articles of Incorporation and these Bylaws. The specific purposes of the Corporation are to&#x20;
+The purposes of the Corporation, as set forth in the Articles of Incorporation, are exclusively charitable, educational, or religious, within the meaning of section 501(c)(3) of the Internal Revenue Code of 1986, as amended, or the corresponding provision of any future Federal tax law (“Section 501(c)(3)”). In furtherance of such purposes, the Corporation shall have the same powers as an individual to do all things necessary or convenient to carry out the purposes, as set forth in the Articles of Incorporation and these Bylaws.
 
 ### Section 2.02 Governing Instruments.&#x20;
 
@@ -46,7 +46,13 @@ No part of the activities of the Corporation shall consist of participating in, 
 
 ## Article 3. Membership
 
-The Corporation shall have no members.
+### Section 3.01 Composition of Membership.
+
+Membership of the Foundation shall consist solely of Lions clubs and their members who are in good standing.
+
+### Section 3.02: Prohibition of Mandatory Dues.&#x20;
+
+The Foundation shall not impose mandatory dues on its Lion Member Lions Clubs or their individual members. Any financial contributions to the Foundation are voluntary and not a prerequisite for membership or continued affiliation.
 
 ## Article 4. Directors
 
@@ -102,9 +108,17 @@ Any newly created directorships and any vacancy occurring on the Board arising a
 
 The Board, by resolution adopted by a majority of the entire Board, may designate from among the Directors an executive committee and other standing committees, each consisting of three or more Directors, to serve at the pleasure of the Board, and each of which, to the extent provided in such resolution, shall have the authority of the Board. The Board may designate one or more Directors as alternate members of any such committee, who may replace any absent member or members at any meeting of such committee.&#x20;
 
-### Section 4.14 Participation by Telephone.&#x20;
+### Section 4.14. Electronic Participation.&#x20;
 
-Any one or more members of the Board or any committee thereof may participate in a meeting of the Board or such committee by means of a conference telephone or similar communications equipment allowing all persons participating in the meeting to hear each other at the same time. Participation by such means shall constitute presence in person at a meeting.
+Board meetings shall be held at a central location, but Board members who are not present in person shall have the right to participate by telephone or other electronic means, subject to any limitations established in rules and/or policies adopted by the Board to govern such participation.
+
+### Section 4.15: Board Composition Requirement.&#x20;
+
+A majority of the Board of Directors of the Choteau Lions Club Foundation shall be composed of members of the Choteau Lions Club who are in good standing. This composition is essential for the legitimacy and proper functioning of the Board.
+
+### Section 4.16 Prohibition of Proxy Voting.&#x20;
+
+Proxy voting is not allowed in any decision-making process of the Foundation. All votes must be cast by members who are present at the meeting, either in person or via authorized electronic means.
 
 ## Article 5. Officers
 
@@ -172,7 +186,9 @@ The Corporation may be dissolved only upon adoption of a plan of dissolution and
 
 ## Article 9. Amendments
 
-These By-Laws may be altered, amended, added to or repealed at any meeting of the Board called for that purpose by the vote of a majority of the Directors then in office.
+### Section 9.01: Approval of Amendments.&#x20;
+
+Amendments to these Bylaws and other governing documents of the Foundation shall be subject to approval by the general membership at the regular annual meeting. Such amendments require a two-thirds vote for adoption.
 
 ## Article 10. Construction
 
