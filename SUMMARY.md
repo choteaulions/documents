@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Articles of Incorporation](README.md)
+* [Bylaws](bylaws.md)
